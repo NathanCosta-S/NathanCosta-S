@@ -11,14 +11,11 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
+  ### Me segue nas redes abaixo! 
 <div>
   
   <a href= "https://www.instagram.com/nathan_costa.90/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "nathancosta73@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a href="https://www.linkedin.com/in/nathan-da-costa-silva-1905b2292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/NathanCosta-S/NathanCosta-S/blob/output/github-contribution-grid-snake.svg)
 
 </div>
