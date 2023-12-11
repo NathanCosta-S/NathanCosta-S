@@ -1,4 +1,4 @@
-
+<img src = ".github/workflows/bannerG2.png">
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A025D3&size=26&center=true&vCenter=true&width=390&height=50&duration=2000&pause=2000"&lines=Olá,+Sou+Nathan+Da+Costa+;Estudante+na+área+de;Front-end+Web+development.)](https://git.io/typing-svg)
