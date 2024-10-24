@@ -18,8 +18,7 @@
  <br>
 
   ### 📚 Escolas e Cursos Profissionalizantes:
-  
-  <a href="#"><img alt="DevQuest" src="https://img.shields.io/badge/DevQuest-8034A9?.svg?logo=Pluralsight&logoColor=white"></a>
+   <a href="https://fatecmarilia.cps.sp.gov.br/desenvolvimento-de-software-multiplataforma/">FATEC Marília-SP</a>
  ### 💻 Alguns Software e Ferramentas:
   
   
